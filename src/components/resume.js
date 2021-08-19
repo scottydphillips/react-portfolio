@@ -13,7 +13,7 @@ function Resume() {
 				<li><i class="fab fa-js-square"></i></li>
 				<li><i class="fab fa-react"></i></li>
 				<li><i class="fab fa-node-js"></i></li>
-				
+				<li><i class="fas fa-database"></i></li>
 			</ul>
 		</div>
 	</div>
