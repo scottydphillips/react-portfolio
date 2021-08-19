@@ -6,13 +6,15 @@ function Work() {
 			<div className='grid gap-4 cols-2'>
 				<span>
 					<img src="../../public/images/Listingscreenshot.png" alt='LEaseGIT app screenshot logged in'/>
-					<a href="https://still-tundra-21201.herokuapp.com/login">LEaseGIT</a> <span>A Real Estate Management and Layout Tool</span>
+					<a href="https://still-tundra-21201.herokuapp.com/login">LEaseGIT</a>
+					<p>A Real Estate Management and Layout Tool</p>
 					<p>Technologies Used: </p>
 					<a href="https://github.com/scottydphillips/LEaseGIT">LEaseGIT GitHub Repository</a>
 				</span>
 				<span>
 					<img src="../../public/images/SA1l.png" alt="SA1L screenshot" />
-					<a href="https://scottydphillips.github.io/sa1l/">SA1L</a> <span>Songs All in One Location!</span>
+					<a href="https://scottydphillips.github.io/sa1l/">SA1L</a>
+					<p>Songs All in One Location!</p>
 					<p>Technologies Used: </p>
 					<a href="https://github.com/scottydphillips/sa1l">SA1L GitHub Repository</a>
 				</span>
