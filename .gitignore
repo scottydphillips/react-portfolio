@@ -40,6 +40,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+craco.config.js
+tailwind.config.js
 
 # TypeScript v1 declaration files
 typings/
