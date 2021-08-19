@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Navbar from "./navbar";
 import Homepage from './homepage';
-import Footer from "./footer";
 import Resume from './resume';
 import Work from './work';
 
