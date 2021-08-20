@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --primary: #e0d3aa;
+  --primary-dark: #b29961;
+  --secondary: #272526;
+  --secondary-dark: #000205;
+  --tertiary: #f2ebe2;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -19,6 +27,8 @@ code {
 .header {
   left: 0;
   text-align: left;
+  background-color: var(--primary);
+  color: var(--secondary);
 }
 
 .footer {
@@ -28,8 +38,14 @@ code {
   bottom: 0;
   left: 0;
   width: 100%;
+  background-color: var(--primary-dark);
+  color: var(--secondary-dark)
 }
 
 .extraPadding {
   padding-bottom: 8rem;
+}
+
+i {
+  
 }

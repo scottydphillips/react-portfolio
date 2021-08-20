@@ -9,10 +9,10 @@ import '../index.css'
 function Work() {
 	return(
 		<div className="md:container md:mx-auto">
-			<div className='grid gap-4 grid-cols-2'>
-				<div className='card-container'>
-					<div className='image-container h-48'>
-						<img src={LEaseGIT} alt='LEaseGIT app screenshot logged in'/>
+			<div className='grid gap-4 grid-cols-2 flex'>
+				<div className='card-container flex-wrap'> 
+					<div className='image-container h-auto'>
+						<img className='h-72' src={LEaseGIT} alt='LEaseGIT app screenshot logged in'/>
 					</div>
 					<div className='image-text'>
 						<a className='app-link' href="https://still-tundra-21201.herokuapp.com/login">LEaseGIT</a>
@@ -21,9 +21,9 @@ function Work() {
 						<a className='github-link' href="https://github.com/scottydphillips/LEaseGIT">LEaseGIT GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container'>
-					<div className='image-container h-48'>
-						<img src={SA1L} alt="SA1L screenshot" />
+				<div className='card-container flex-wrap'>
+					<div className='image-container h-auto'>
+						<img className='h-72' src={SA1L} alt="SA1L screenshot" />
 					</div>
 					<div className='image-text'>
 						<a className='app-link' href="https://scottydphillips.github.io/sa1l/">SA1L</a>
@@ -33,10 +33,10 @@ function Work() {
 					</div>
 				</div>
 			</div>
-			<div className='grid gap-4 grid-cols-3'>
-				<div className='card-container'>
-					<div className='image-container h-48'>
-						<img src={ecommerce} alt='ecommerce back end screenshot' />
+			<div className='grid gap-4 grid-cols-3 flex'>
+				<div className='card-container flex-wrap items-baseline extraPadding'>
+					<div className='image-container h-auto'>
+						<img className='h-72' src={ecommerce} alt='ecommerce back end screenshot' />
 					</div>
 					<div className='image-text'>
 						<a className='app-link' href="https://youtu.be/37W7bKwBORU">E-Commerce Back End App Walkthrough Video</a>
@@ -44,9 +44,9 @@ function Work() {
 						<a className='github-link' href='https://github.com/scottydphillips/ecommerce-back-end'>E-Commerce Back End GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container'>
-					<div className='image-container h-48'>
-						<img src={teamProfile} alt="Team Profile Generator App screenshot" />
+				<div className='card-container flex-wrap items-baseline extraPadding'>
+					<div className='image-container h-auto'>
+						<img className='h-72' src={teamProfile} alt="Team Profile Generator App screenshot" />
 					</div>
 					<div className='image-text'>
 						<a className='app-link' href="https://youtu.be/CpIfqz1Uvdk">Team Profile Generator App</a>
@@ -54,9 +54,9 @@ function Work() {
 						<a className='github-link' href="https://github.com/scottydphillips/sdp-team-profile-generator">Team Profile Generator GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container extraPadding'>
-					<div className='image-container h-48'>
-						<img src={DayPlanner} alt='Day Planner App Screenshot' />
+				<div className='card-container flex-wrap items-baseline extraPadding'>
+					<div className='image-container h-auto'>
+						<img className='h-72' src={DayPlanner} alt='Day Planner App Screenshot' />
 					</div>
 					<div className='image-text'>
 						<a className='app-link' href='https://scottydphillips.github.io/sdp-day-planner/'>Day Planner App</a>
