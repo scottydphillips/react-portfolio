@@ -1,8 +1,9 @@
 import React from 'react';
+import "../index.css"
 
 function Navbar({ currentPage, handlePageChange }) {
 	return(
-		<nav className="navbar">
+		<nav className="navbar header">
 			<ul>
 					<li><a href="#home" onClick={() => handlePageChange('Homepage')}
 					className={currentPage === 'Home' ? 'nav-link-active' : 'nav-link'}>Home</a></li>

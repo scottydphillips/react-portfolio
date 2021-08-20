@@ -3,6 +3,7 @@ import Navbar from "./navbar";
 import Homepage from './homepage';
 import Resume from './resume';
 import Work from './work';
+import '../index.css'
 
 export default function Container() {
 	const [currentPage, setCurrentPage] = useState('Homepage');
