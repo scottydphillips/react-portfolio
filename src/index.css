@@ -31,6 +31,18 @@ code {
   color: var(--secondary);
 }
 
+.heading {
+  background-color: var(--primary);
+  font-size: 3rem;
+  color: var(--secondary);
+}
+
+.contact-me {
+  background-color: var(--primary-dark);
+  font-size: 1.5rem;
+  color: var(--secondary-dark);
+}
+
 .footer {
   margin-top: 1rem;
   padding: 1rem;

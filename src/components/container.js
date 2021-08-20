@@ -24,6 +24,7 @@ export default function Container() {
 
 	return(
 		<div>
+			<h1 className='heading'>Scott Phillips</h1>
 			<Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
 			{renderPage()}
 		</div>

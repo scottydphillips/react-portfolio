@@ -12,7 +12,6 @@ function Navbar({ currentPage, handlePageChange }) {
 						className={currentPage === 'Resume' ? 'nav-link-active' : 'nav-link'}>Résumé </a></li>
 						<li className='inline'><a href="#work" onClick={() => handlePageChange('Work')}
 						className={currentPage === 'Work' ? 'nav-link-active' : 'nav-link'}>Work </a></li>
-						<li className='inline'><a href="#footer">Contact Me </a></li>
 				</ul>
 			</div>
 		</nav>
