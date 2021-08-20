@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://scottydphillips.github.io/react-portfolio",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -26,7 +27,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
