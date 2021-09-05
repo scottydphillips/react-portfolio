@@ -6,11 +6,11 @@ function Navbar({ currentPage, handlePageChange }) {
 		<nav className="navbar header">
 			<div className="inline">	
 				<ul>
-						<li className='inline'><a href="#home" onClick={() => handlePageChange('Homepage')}
+						<li className='inline text-indigo-700 px-2 mx-3 text-xl'><a href="#home" onClick={() => handlePageChange('Homepage')}
 						className={currentPage === 'Home' ? 'nav-link-active' : 'nav-link'}>Home </a></li>
-						<li className='inline'><a href="#resume" onClick={() => handlePageChange('Resume')}
+						<li className='inline text-indigo-700 px-2 mx-3 text-xl'><a href="#resume" onClick={() => handlePageChange('Resume')}
 						className={currentPage === 'Resume' ? 'nav-link-active' : 'nav-link'}>Résumé </a></li>
-						<li className='inline'><a href="#work" onClick={() => handlePageChange('Work')}
+						<li className='inline text-indigo-700 px-2 mx-3 text-xl'><a href="#work" onClick={() => handlePageChange('Work')}
 						className={currentPage === 'Work' ? 'nav-link-active' : 'nav-link'}>Work </a></li>
 				</ul>
 			</div>

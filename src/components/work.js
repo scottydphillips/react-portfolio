@@ -4,12 +4,13 @@ import DayPlanner from "../assets/DayPlanner.png";
 import SA1L from "../assets/SA1L.png"
 import ecommerce from "../assets/ecommercebackendscreenshot.png"
 import teamProfile from "../assets/team-profile-generated.png"
+import rhythmr from '../assets/rhythmr1.png';
 import '../index.css'
 
 function Work() {
 	return(
 		<div className="md:container md:mx-auto">
-			<div className='grid gap-4 grid-cols-2 flex'>
+			<div className='md:grid gap-4 md:grid-cols-2 flex'>
 				<div className='card-container flex-wrap'> 
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={LEaseGIT} alt='LEaseGIT app screenshot logged in'/>
@@ -33,7 +34,7 @@ function Work() {
 					</div>
 				</div>
 			</div>
-			<div className='grid gap-4 grid-cols-3 flex'>
+			<div className='md:grid gap-4 md:grid-cols-3 flex'>
 				<div className='card-container flex-wrap items-baseline extraPadding'>
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={ecommerce} alt='ecommerce back end screenshot' />
