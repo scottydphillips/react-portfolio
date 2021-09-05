@@ -11,13 +11,13 @@ function Resume() {
 		<div className='justify-items-center content-center'>
 			<ul className='text-xl'>Skills and Technologies:
 			<br></br>
-				<li className='list-inside inline'> <i class="fab fa-html5 fa-2x"></i> </li>
-				<li className='inline'><i class="fab fa-css3-alt fa-2x"></i> </li>
-				<li className='inline'><i class="fab fa-bootstrap fa-2x"></i> </li>
-				<li className='inline'><i class="fab fa-js-square fa-2x"></i> </li>
-				<li className='inline'><i class="fab fa-react fa-2x"></i> </li>
-				<li className='inline'><i class="fab fa-node-js fa-2x"></i> </li>
-				<li className='inline'><i class="fas fa-database fa-2x"></i></li>
+				<li className='list-inside inline px-2'> <i class="fab fa-html5 fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fab fa-css3-alt fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fab fa-bootstrap fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fab fa-js-square fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fab fa-react fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fab fa-node-js fa-2x"></i> </li>
+				<li className='inline px-2'><i class="fas fa-database fa-2x"></i></li>
 			</ul>
 		</div>
 	</div>
