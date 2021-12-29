@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5488ac8d.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.2ccfd9a7.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.2ccfd9a7.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.08c9ef83.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.66e8a060.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.66e8a060.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
     "static/js/2.fc89fecd.chunk.js": "/react-portfolio/static/js/2.fc89fecd.chunk.js",
     "static/js/2.fc89fecd.chunk.js.map": "/react-portfolio/static/js/2.fc89fecd.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.5488ac8d.chunk.css.map": "/react-portfolio/static/css/main.5488ac8d.chunk.css.map",
+    "static/css/main.08c9ef83.chunk.css.map": "/react-portfolio/static/css/main.08c9ef83.chunk.css.map",
     "static/js/2.fc89fecd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fc89fecd.chunk.js.LICENSE.txt",
     "static/media/DayPlanner.4c0b055c.png": "/react-portfolio/static/media/DayPlanner.4c0b055c.png",
     "static/media/Listingscreenshot.b770b234.png": "/react-portfolio/static/media/Listingscreenshot.b770b234.png",
     "static/media/SA1L.87f28106.png": "/react-portfolio/static/media/SA1L.87f28106.png",
-    "static/media/ScottPhillipsTechResume2021.7b82c0df.pdf": "/react-portfolio/static/media/ScottPhillipsTechResume2021.7b82c0df.pdf",
+    "static/media/ScottPhillipsTechResume2021.28eb69b8.pdf": "/react-portfolio/static/media/ScottPhillipsTechResume2021.28eb69b8.pdf",
     "static/media/Singularity_Quartet8546-Edit.3851937d.jpeg": "/react-portfolio/static/media/Singularity_Quartet8546-Edit.3851937d.jpeg",
     "static/media/ecommercebackendscreenshot.032de674.png": "/react-portfolio/static/media/ecommercebackendscreenshot.032de674.png",
     "static/media/rhythmr1.9cc9bfc4.png": "/react-portfolio/static/media/rhythmr1.9cc9bfc4.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.872b2f22.js",
     "static/js/2.fc89fecd.chunk.js",
-    "static/css/main.5488ac8d.chunk.css",
-    "static/js/main.2ccfd9a7.chunk.js"
+    "static/css/main.08c9ef83.chunk.css",
+    "static/js/main.66e8a060.chunk.js"
   ]
 }
