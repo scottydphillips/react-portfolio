@@ -10,9 +10,9 @@ import '../index.css'
 function Work() {
 	return(
 		<div className="md:container md:mx-auto">
-			<div className='grid gap-4 grid-cols-2 flex md:flex'>
-				<div className='card-container flex-wrap md:flex-wrap'> 
-					<div className='image-container h-auto'>
+			<div className='flex md:flex grid'>
+				<div className='card-container flex-wrap md:flex-wrap gap-4'> 
+					<div className='image-container h-auto gap-4'>
 						<img className='h-72 rounded-l shadow-l' src={LEaseGIT} alt='LEaseGIT app screenshot logged in'/>
 					</div>
 					<div className='image-text'>
@@ -22,7 +22,7 @@ function Work() {
 						<a className='github-link text-indigo-700' href="https://github.com/scottydphillips/LEaseGIT">LEaseGIT GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container flex-wrap md:flex-wrap'>
+				<div className='card-container flex-wrap md:flex-wrap gap-4'>
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={SA1L} alt="SA1L screenshot" />
 					</div>
@@ -33,7 +33,7 @@ function Work() {
 						<a className='github-link text-indigo-700' href="https://github.com/scottydphillips/sa1l">SA1L GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container flex-wrap md:flex-wrap'> 
+				<div className='card-container flex-wrap md:flex-wrap gap-4'> 
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={rhythmr} alt='rhythmr app screenshot logged in'/>
 					</div>
@@ -45,8 +45,8 @@ function Work() {
 					</div>
 				</div>
 			</div>
-			<div className='grid gap-4 grid-cols-3 flex md:flex'>
-				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap'>
+			<div className='flex md:flex grid'>
+				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap gap-4'>
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={ecommerce} alt='ecommerce back end screenshot' />
 					</div>
@@ -56,7 +56,7 @@ function Work() {
 						<a className='github-link text-indigo-700 text-sm' href='https://github.com/scottydphillips/ecommerce-back-end'>E-Commerce Back End GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap'>
+				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap gap-4'>
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={teamProfile} alt="Team Profile Generator App screenshot" />
 					</div>
@@ -66,7 +66,7 @@ function Work() {
 						<a className='github-link text-indigo-700' href="https://github.com/scottydphillips/sdp-team-profile-generator">Team Profile Generator GitHub Repository</a>
 					</div>
 				</div>
-				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap'>
+				<div className='card-container flex-wrap items-baseline extraPadding md:flex-wrap gap-4'>
 					<div className='image-container h-auto'>
 						<img className='h-72 rounded-l shadow-l' src={DayPlanner} alt='Day Planner App Screenshot' />
 					</div>
