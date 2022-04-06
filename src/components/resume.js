@@ -23,7 +23,8 @@ function Resume() {
 			<ul className='text-xl'>Currently Learning:
 				<br></br>
 				<li className='list-inside inline px-2'> <i class="fab fa-linux fa-2x"></i></li>
-				<li className='inline px-2'><i class="fab fa-aws fa-2x"></i></li>
+				<li className='inline px-2'><i class="fab fa-wordpress-simple fa-2x"></i></li>
+				<li className='inline px-2'><i class='fab fa-php fa-2x'></i></li>
 			</ul>
 		</div>
 	</div>
