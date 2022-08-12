@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.f4f46dfb.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.6bce4292.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.6bce4292.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.3ec94cf5.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ebc17273.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ebc17273.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
     "static/js/2.fc89fecd.chunk.js": "/react-portfolio/static/js/2.fc89fecd.chunk.js",
     "static/js/2.fc89fecd.chunk.js.map": "/react-portfolio/static/js/2.fc89fecd.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.f4f46dfb.chunk.css.map": "/react-portfolio/static/css/main.f4f46dfb.chunk.css.map",
+    "static/css/main.3ec94cf5.chunk.css.map": "/react-portfolio/static/css/main.3ec94cf5.chunk.css.map",
     "static/js/2.fc89fecd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fc89fecd.chunk.js.LICENSE.txt",
-    "static/media/DayPlanner.4c0b055c.png": "/react-portfolio/static/media/DayPlanner.4c0b055c.png",
     "static/media/Listingscreenshot.b770b234.png": "/react-portfolio/static/media/Listingscreenshot.b770b234.png",
     "static/media/SA1L.87f28106.png": "/react-portfolio/static/media/SA1L.87f28106.png",
     "static/media/ScottPhillipsTechResume2022.d171b7c4.pdf": "/react-portfolio/static/media/ScottPhillipsTechResume2022.d171b7c4.pdf",
     "static/media/Singularity_Quartet8546-Edit.3851937d.jpeg": "/react-portfolio/static/media/Singularity_Quartet8546-Edit.3851937d.jpeg",
-    "static/media/ecommercebackendscreenshot.032de674.png": "/react-portfolio/static/media/ecommercebackendscreenshot.032de674.png",
-    "static/media/rhythmr1.9cc9bfc4.png": "/react-portfolio/static/media/rhythmr1.9cc9bfc4.png",
-    "static/media/team-profile-generated.291d997b.png": "/react-portfolio/static/media/team-profile-generated.291d997b.png"
+    "static/media/bbgf.8dc1c7ca.png": "/react-portfolio/static/media/bbgf.8dc1c7ca.png",
+    "static/media/michiganentallergyhomepage.40539874.png": "/react-portfolio/static/media/michiganentallergyhomepage.40539874.png",
+    "static/media/rhythmr1.9cc9bfc4.png": "/react-portfolio/static/media/rhythmr1.9cc9bfc4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.872b2f22.js",
     "static/js/2.fc89fecd.chunk.js",
-    "static/css/main.f4f46dfb.chunk.css",
-    "static/js/main.6bce4292.chunk.js"
+    "static/css/main.3ec94cf5.chunk.css",
+    "static/js/main.ebc17273.chunk.js"
   ]
 }
