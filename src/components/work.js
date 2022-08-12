@@ -27,7 +27,7 @@ function Work() {
 					<div className='image-text'>
 						<a className='app-link text-indigo-700' href='https://www.michiganentallergy.com'>Michigan ENT & Allergy</a>
 						<p className='tech-used'>Technologies Used: PHP, JavaScript, SCSS, Bootstrap WordPress</p>
-						<p>Converted website using Divi theme to custom WordPress theme. Completed as a project from <a className='app-link text-indigo-700' href='https://www.elexicon.com'>Elexicon</a>.</p>
+						<p>Converted website using Divi theme to custom WordPress theme. Completed as a project for <a className='app-link text-indigo-700' href='https://www.elexicon.com'>Elexicon</a>.</p>
 					</div>
 				</div>
 			</div>
