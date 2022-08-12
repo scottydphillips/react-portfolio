@@ -13,10 +13,12 @@ function Resume() {
 			<br></br>
 				<li className='list-inside inline px-2'> <i class="fab fa-html5 fa-2x"></i> </li>
 				<li className='inline px-2'><i class="fab fa-css3-alt fa-2x"></i> </li>
+				<li className="inline px-2"><i class="fab fa-sass fa-2x"></i></li>
 				<li className='inline px-2'><i class="fab fa-bootstrap fa-2x"></i> </li>
 				<li className='inline px-2'><i class="fab fa-js-square fa-2x"></i> </li>
 				<li className='inline px-2'><i class="fab fa-react fa-2x"></i> </li>
 				<li className='inline px-2'><i class="fab fa-node-js fa-2x"></i> </li>
+				<li className='inline px-2'><i class='fab fa-php fa-2x'></i></li>
 				<li className='inline px-2'><i class="fab fa-wordpress fa-2x"></i></li>
 				<li className='inline px-2'><i class="fas fa-database fa-2x"></i></li>
 			</ul>
@@ -24,7 +26,6 @@ function Resume() {
 			<ul className='text-xl'>Currently Learning:
 				<br></br>
 				<li className='list-inside inline px-2'> <i class="fab fa-linux fa-2x"></i></li>
-				<li className='inline px-2'><i class='fab fa-php fa-2x'></i></li>
 			</ul>
 		</div>
 	</div>
