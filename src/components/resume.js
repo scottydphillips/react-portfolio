@@ -25,6 +25,7 @@ function Resume() {
 			<br></br>
 			<ul className='text-xl'>Currently Learning:
 				<br></br>
+				<li className='list-inside inline px-2'><i class="fab fa-aws fa-2x"></i></li> 
 				<li className='list-inside inline px-2'> <i class="fab fa-linux fa-2x"></i></li>
 			</ul>
 		</div>
