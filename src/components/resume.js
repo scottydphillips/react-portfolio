@@ -1,5 +1,5 @@
 import React from "react";
-import sdpResume from "../assets/ScottPhillipsTechResume2022.pdf";
+import sdpResume from "../assets/ScottPhillipsTechResume2024.pdf";
 
 function Resume() {
 	return(
