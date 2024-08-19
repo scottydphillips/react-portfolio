@@ -66,6 +66,10 @@ body {
   position: absolute;
 }
 
+.footer-absolute {
+  position: absolute;
+}
+
 .extraPadding {
   padding-bottom: 8rem;
 }

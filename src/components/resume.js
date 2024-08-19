@@ -1,5 +1,5 @@
 import React from "react";
-import sdpResume from "../assets/ScottPhillipsTechResume2022.pdf";
+import sdpResume from "../assets/ScottPhillipsTechResume2024.pdf";
 
 function Resume() {
 	return(
@@ -27,6 +27,7 @@ function Resume() {
 				<br></br>
 				<li className='list-inside inline px-2'><i class="fab fa-aws fa-2x"></i></li> 
 				<li className='list-inside inline px-2'> <i class="fab fa-linux fa-2x"></i></li>
+				<li className="list-inside inline px-2"><i class='fab fa-aws fa-2x'></i></li>
 			</ul>
 		</div>
 	</div>

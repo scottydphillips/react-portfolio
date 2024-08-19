@@ -2,7 +2,6 @@ import React from 'react';
 import "../index.css"
 
 function Footer(props) {
-	console.log('props', props.currentPage);
 		return(
 		<div className={props.currentPage === 'Resume' ? 'footer footer-absolute' : 'footer'} >
 			<h3 className="contact-me">Contact Me</h3>
