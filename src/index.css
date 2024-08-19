@@ -46,12 +46,16 @@ code {
 .footer {
   margin-top: 1rem;
   padding: 1rem;
-  position: fixed;
+  position: relative;
   bottom: 0;
   left: 0;
   width: 100%;
   background-color: var(--primary-dark);
   color: var(--secondary-dark)
+}
+
+.footer-absolute {
+  position: absolute;
 }
 
 .extraPadding {
